@@ -1,0 +1,28 @@
+{
+  "name": "BatchInfoWeb",
+  "authors": [
+    "Mathieu GOULIN <mathieu.goulin@gadz.org>"
+  ],
+  "description": "A web portal to view information for different process execution",
+  "main": "index.html",
+  "keywords": [
+    "batch",
+    "dashboard",
+    "processing"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7",
+    "angular": "angularjs#^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}
