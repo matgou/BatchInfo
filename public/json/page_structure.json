@@ -1,0 +1,18 @@
+[
+  [
+    {
+    "type": "MainBatchInfo",
+    "size": 6
+    },
+    {
+    "type": "MainBatchLink",
+    "size": 6
+    }
+  ],
+  [
+    {
+      "type": "TableBatchRun",
+      "size": 12
+    }
+  ]
+]

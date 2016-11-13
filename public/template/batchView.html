@@ -1,0 +1,8 @@
+
+<h1>Traitement : {{ batchInfo.name }}</h1>
+  <div class="row" ng-repeat="row in structure">
+    <div ng-repeat="widget in row">
+      <!-- Widget Information -->
+      <div ng-include="'template/' + widget.type + '.html'"></div>
+    </div>
+  </div>
